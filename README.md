@@ -36,6 +36,7 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
   Below are sample images from each of the test runs:
   
    40 Epochs  | 50 Epochs | 100 Epochs
+   ----------------------------------------
  
 ![title](um_000001.png)|![title](um_000010.png)|![title](um_000012.png)
 
