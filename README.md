@@ -25,7 +25,7 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
   |30   |0.025|
   |40   |0.034|
   |50   |0.022|
-  |60   |0.030|
+  |60   |0.030| 
   |70   |0.021|
   |80   |0.108|
   |90   |0.017|
