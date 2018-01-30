@@ -16,8 +16,9 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
 ## Results
   
   The losses on the 100 epoch run were:
-  Epoch | Loss
   
+  Epoch | Loss
+  --------------
   1    |0.254
   10   |0.078
   20   |0.042
@@ -33,9 +34,10 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
 ## Images
  
   Below are sample images from each of the test runs:
+  
    40 Epochs  | 50 Epochs | 100 Epochs
    
-(./um_000001.png)|(./um_000010.png)|(./um_000012.png)
+(um_000001.png)|(um_000010.png)|(um_000012.png)
 
 
 
