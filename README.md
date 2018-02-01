@@ -10,7 +10,7 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
   
 ## Training
 
-  Three training runs were done. In each, the batch is set to 5 and the kernel is initialized to stddev = 0.01 and it is regularized to 0.001. The runs were for 40 epochs, 50 epochs, and 100 epochs. Also a keep probabliity of 0.5 and a learning rate of 0.0009 are used.
+  Three training runs were done. In each, the batch is set to 5 and the kernel is initialized to stddev = 0.01 and it is regularized to 0.001. The runs were for 40 epochs, 70 epochs, and 100 epochs. Also a keep probabliity of 0.5 and a learning rate of 0.0009 are used.
 
 
 ## Results
@@ -35,9 +35,9 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
  
   Below are sample images from the 50 epoch run:
   
-   
- 
-![title](um_000001.png)|![title](um_000010.png)|![title](um_000012.png)
+   |40 Epochs| 70 Epochs | 100 Epochs
+   |:-------------------|:-------------------|:-------------------- 
+|![title](um_000001.png)|![title](um_000010.png)|![title](um_000012.png)|
 
 
 
