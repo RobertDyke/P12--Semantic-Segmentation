@@ -42,7 +42,7 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
 |![title](40um_000093.png)|![title](70um_000093.png)|![title](100um_000093.png)|
 |![title](40umm_000069.png)|![title](70umm_000069.png)|![title](100umm_000069.png)|
 |![title](40uu_000079.png)|![title](70uu_000079.png)|![title](100uu_000079.png)|
-|![title](40uu_000093.png)|![title](70uu_000093.png)|![title](100uu_000093.png)|
+
 
 
 Below is the original Udacity README for this project:
