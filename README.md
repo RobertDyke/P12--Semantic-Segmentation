@@ -33,12 +33,16 @@ In this project a Convolutional Neural Network (CNN) based on a VGG-16 image cla
 
 ## Images
  
-  Below are sample images from the 50 epoch run:
+  Below are sample images from each epoch run:
   
    |40 Epochs| 70 Epochs | 100 Epochs
    |:-------------------|:-------------------|:-------------------- 
-|![title](um_000001.png)|![title](um_000010.png)|![title](um_000012.png)|
-
+|![title](40um_000028.png)|![title](70um_000028.png)|![title](100um_000028.png)|
+|![title](40um_000067.png)|![title](70um_000067.png)|![title](100um_000067.png)|
+|![title](40um_000093.png)|![title](70um_000093.png)|![title](100um_000093.png)|
+|![title](40umm_000069.png)|![title](70umm_000069.png)|![title](100umm_000069.png)|
+|![title](40uu_000079.png)|![title](70uu_000079.png)|![title](100uu_000079.png)|
+|![title](40uu_000093.png)|![title](70uu_000093.png)|![title](100uu_000093.png)|
 
 
 Below is the original Udacity README for this project:
