@@ -1,6 +1,6 @@
 # Project 12 Semantic Segmentation
 
-In this project a Convolutional Neural Network (CNN) based on a VGG-16 image classifier performs semantic segmentation to identify roads in scene images. The VGG-16 is originally described in the paper "Fully Convolutional Newtorks for Semantic Segmentation" by Long, Shelhamer, and Darrell.
+In this project a Convolutional Neural Network (CNN) based on a VGG-16 image classifier performs semantic segmentation to identify roads in scene images. The VGG-16 is originally described in the paper "Fully Convolutional Newtorks for Semantic Segmentation" by Long, Shelhamer, and Darrell. The image classifier is located in main.py. Also, this project requires a GPU to properly execute. I used Amazon EWS with an instance of g3.8large.
 
 ## Strategy
 
